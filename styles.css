@@ -144,7 +144,14 @@ body {
 .footer__link:hover {
     color: #95F0F7;
 }
-
+.problems-section{
+  display: flex;
+  flex-direction: column;
+  background-color: #11071f;
+  box-shadow: 0px 0px 5px 0px #ffffff80;
+  margin: 0 2px;
+  align-items: center;
+}
 .section {
   display: flex;
   flex-direction: column;
